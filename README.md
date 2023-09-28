@@ -31,6 +31,7 @@ IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백�
 
 ### 10월
 **10월은 주요 알고리즘에 대해 학습하는 단계입니다.** <br/>
+ - [나동빈님 알고리즘 강의](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC) 학습하기
  - [백준 알고리즘별](https://www.acmicpc.net/problem/tags)로 분류된, 그리고 Excel로 뽑힌 문제들을 풀기
  - [프로그래머스 고득접 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)에 있는 문제들을 풀기
  - 매주 1회 각자 푼 문제에 대한 시간복잡도와 풀이방법 해설(대면)
