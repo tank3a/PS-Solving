@@ -43,7 +43,7 @@
 <br/>
 
 # 😮 참여인원
-|JAVA|JAVA|JAVA|C++|?|JAVA|
+|JAVA|JAVA|JAVA|C++|C++|JAVA|
 | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |----------------------------|----------------------------|
 | [강송모](https://github.com/rkdthdah) | [김종원](https://github.com/tank3a) | [신도영](https://github.com/straipe) | [이승주](https://github.com/CsLsj) | [장성호](https://github.com/seongho9) | [황민우](https://github.com/humang) |
 
