@@ -1,0 +1,38 @@
+스택을 이용하면 비교적 쉽게 풀 수 있다
+보드에서 뽑은 값이 스택의 top 값과 같으면 top값을 빼주고 보드의 값을 0으로 바꿔주면서 answer+2를 해주면 되고 값이 다르면 스택에 push해주면서 보드의 값을 0으로 바꿔주면 된다
+#include <string>
+#include <vector>
+#include <stack>
+
+using namespace std;
+//뽑아서 같으면 보드에서 삭제 + 끝에서도 삭제
+//뽑아서 같지 않으면 보드에서 삭제후 item에 삽입
+#include <string>
+#include <vector>
+#include <stack>
+
+using namespace std;
+//뽑아서 같으면 보드 값 0으로 만듦 + 끝에서도 삭제
+//뽑아서 같지 않으면 보드 값 0으로 만듦 item에 삽입
+int solution(vector<vector<int>> board, vector<int> moves) {
+    int answer = 0;
+    stack<int> s;
+    for(int i=0;i<moves.size();i++){
+        for(int j=0;j<board.size();j++){
+            if(board[j][moves[i]-1]!=0){
+                if(!s.empty() && s.top()==board[j][moves[i]-1]){
+                    s.pop();
+                    board[j][moves[i]-1]=0;
+                    answer+=2;
+                    break;
+                    }
+                else{
+                    s.push(board[j][moves[i]-1]);
+                    board[j][moves[i]-1]=0;
+                    break;
+                }
+            }
+        }
+    }
+    return answer;
+}
