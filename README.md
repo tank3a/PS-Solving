@@ -7,7 +7,7 @@
 
 2개월동안 대기업급 코딩테스트 합격을 목표로 합니다.
 
-IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백준은 [repl.it](https://replit.com)을 사용합니다.
+IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백준은 [online gdb](https://www.onlinegdb.com/)을 사용합니다.
 
 [엑셀 파일 링크](https://docs.google.com/spreadsheets/d/1hGfMzoENAGQE_mZPy3tKu7u9Opx5k2zBO1C7W5w-epw/edit#gid=1086871307)
 
