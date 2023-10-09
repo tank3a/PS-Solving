@@ -1,13 +1,14 @@
 # 🌅 PS-Solving
 코딩테스트 합격을 목표로 하는 단기간 Problem Solving 스터디입니다.
 
-최신 공지사항 : [10/2](https://github.com/tank3a/PS-Solving/blob/main/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/10_2.md)
+최신 공지사항 : [10/9](https://github.com/tank3a/PS-Solving/blob/main/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/10_9.md)
 
 작성 언어는 C/C++ or JAVA입니다.
 
 2개월동안 대기업급 코딩테스트 합격을 목표로 합니다.
 
-IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백준은 [online gdb](https://www.onlinegdb.com/)을 사용합니다.
+IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백준은 자동완성이 되지않는 IDE를 사용합니다.
+(JAVA의 경우 https://www.jdoodle.com/online-java-compiler 추천)
 
 [엑셀 파일 링크](https://docs.google.com/spreadsheets/d/1hGfMzoENAGQE_mZPy3tKu7u9Opx5k2zBO1C7W5w-epw/edit#gid=1086871307)
 
