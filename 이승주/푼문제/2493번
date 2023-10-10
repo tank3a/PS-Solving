@@ -1,0 +1,30 @@
+#include <iostream>
+#include <vector>
+#include <stack>
+
+using namespace std;
+
+int main() {
+    int N;
+    cin >> N;
+    vector<int> v(N);
+    stack<int> answer;
+
+    for (int i = 0; i < N; i++) {
+        cin >> v[i];
+    }
+
+    for (int i = 0; i < N; i++) {
+        while (!answer.empty() && v[i] >= v[answer.top()]) {
+            answer.pop();
+        }
+        if (answer.empty()) {
+            cout << "0 ";
+        } else {
+            cout << (answer.top() + 1) << " "; // Add 1 to get 1-based index
+        }
+        answer.push(i);
+    }
+
+    return 0;
+}
