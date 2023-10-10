@@ -1,0 +1,32 @@
+#include <iostream>
+#include <stack>
+#include <vector>
+
+using namespace std;
+
+int main() {
+  int n;
+  int cnt =1;
+  cin >> n;
+  stack<int> s;
+  vector<char> answer;
+  for (int i = 0; i < n; i++) {
+    int x;
+    cin >> x;
+    while(cnt <=x){
+      s.push(cnt);
+      cnt +=1;
+      answer.push_back('+');
+    }
+    if(s.top() == x){
+      s.pop();
+      answer.push_back('-');
+    }
+    else{
+      cout << "NO" << endl;
+      return 0;
+    }
+  }
+  for(int i=0;i<answer.size();i++)
+    cout << answer[i] << '\n';
+}
