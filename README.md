@@ -1,7 +1,7 @@
 # 🌅 PS-Solving
 코딩테스트 합격 및 알고리즘 풀이 수준 향상을 목표로 하는 단기간 Problem Solving 스터디입니다.
 
-최신 공지사항 : [10/19](https://github.com/tank3a/PS-Solving/blob/main/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/10_19.md)
+최신 공지사항 : [11/1](https://github.com/tank3a/PS-Solving/blob/main/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/11_1.md)
 
 작성 언어는 C/C++ or JAVA입니다.
 
