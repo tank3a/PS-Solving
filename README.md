@@ -38,11 +38,13 @@ IDE는 되도록이면 프로그래머스에서는 기본 제공 IDE만을, 백�
  - 매주 1회 각자 푼 문제에 대한 시간복잡도와 풀이방법 해설(대면)
 
 ### 11월
-**11월은 기타 중요 알고리즘을 학습하고 SQL 문제를 풀며 마무리를 하는 단계입니다.**
- - [백준 알고리즘별](https://www.acmicpc.net/problem/tags)로 분류된, 그리고 Excel로 뽑힌 문제들을 풀기
- - [프로그래머스 SQL Kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) 문제들을 풀기
- - 프로그래머스 Level 2, 3를 각각 하루에 1~2개씩 풀기 
- - 주 1회 대면 코딩테스트 실시
+**필수 알고리즘 공부는 끝냈으니 실력을 끌어올릴 단계입니다.** <br/>
+아래의 과정 중 택 1을 매일 진행합니다.
+- [백준 오늘의 문제](https://github.com/tony9402/baekjoon/blob/main/picked.md)에서 실버 1문제(실버2 이상), 골드이상 1문제
+- [프로그래머스 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit) 2문제(2단계 이상)
+- [프로그래머스 코딩테스트 연습](https://school.programmers.co.kr/learn/challenges?order=recent&languages=java&page=1&levels=2%2C3) 2문제(2단계 이상)
+- [백준 단계별로 풀어보기](https://www.acmicpc.net/step) 중 엑셀에 정리한 알고리즘 분류 문제 풀기(실버 3문제 or 실버2이상 1문제 + 골드이상 1문제)
+- [SWEA](https://swexpertacademy.com/main/main.do) 2문제(D3 이상)
 
 <br/>
 
